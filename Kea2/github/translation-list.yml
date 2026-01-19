@@ -1,9 +1,0 @@
-- path: README.md
-  path_cn: README_cn.md
-  reviewed_cn: .github/reviewed/README_cn_reviewed.md
-- path: docs/manual_en.md
-  path_cn: docs/manual_cn.md
-  reviewed_cn: .github/reviewed/manual_cn_reviewed.md
-- path: docs/blacklisting.md
-  path_cn: docs/blacklisting_cn.md
-  reviewed_cn: .github/reviewed/blacklisting_cn_reviewed.md
